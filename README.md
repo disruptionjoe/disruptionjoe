@@ -1,30 +1,33 @@
 # Joseph Hernandez / Disruption Joe
 
-I design and test AI-native systems for better human judgment, coordination, legitimacy, and execution.
+I help teams think better together by pinpointing the most valuable conversations and making them extraordinarily productive.
 
-My work has three connected lanes:
+## What I use GitHub for
 
-- **Practice** - methods for helping teams and leaders build useful AI capability.
-- **Passion** - public experiments, research artifacts, and agent-system work.
-- **Purpose** - systems that increase human agency rather than replace it.
+GitHub is part of how I work: supporting my agents, developing research, and building things that interest me. Some projects connect directly to my professional practice. Others follow a question, an experiment, or a hobby.
 
-## Start Here
+This profile is a way into that work. The repositories hold the detail, including what has been tried, what is supported by evidence, and what remains open. Some work is private; public links here are not a claim that the whole system is publicly available.
 
-- **Practice:** [disruptionjoe.com](https://disruptionjoe.com/) is the current commercial home.
-- **Method:** [AI Activation Playbook](https://disruptionjoe.com/playbook/) and [AI Enablement Architecture](https://disruptionjoe.com/enablement/) explain the work with teams.
-- **Lab:** [AI Accelerated Thinking](https://disruptionjoe.com/thinking/) gives a designed tour of the public experiments.
-- **Profile:** [disruptionjoe-profile](https://github.com/disruptionjoe/disruptionjoe-profile) is the deeper GitHub profile and background surface.
+## Practice, Passion, Purpose
 
-## Current Public Lab
+- **Practice:** helping teams use their collective knowledge to create clarity, alignment, legitimacy, and momentum.
+- **Passion:** building systems, testing ideas, and exploring how people and AI can think and work together.
+- **Purpose:** increasing human agency rather than replacing it.
 
-- [gu-formalization](https://github.com/disruptionjoe/gu-formalization) - can a bold contested claim be evaluated with disciplined truth-seeking?
-- [time-as-finality](https://github.com/disruptionjoe/time-as-finality) - can cross-disciplinary research connect distinct frames without collapsing into metaphor?
-- [temporal-issuance](https://github.com/disruptionjoe/temporal-issuance) - can a strange originating idea become disciplined enough to produce useful artifacts?
-- [architecture-of-legitimacy](https://github.com/disruptionjoe/architecture-of-legitimacy) - can legitimacy, contribution, governance, incentives, and capture resistance become design problems?
-- [caret](https://github.com/disruptionjoe/caret) - semantic notation for agent workflows in Markdown.
+## Selected public explorations
 
-Some work is public. Some is private or still being made legible. I prefer accurate routing over fake proof.
+Each repository documents its own scope, evidence, and limitations. These are explorations, not a claim that every project is finished or every conclusion established.
 
-## Commercial Route
+- [Architecture of Legitimacy](https://github.com/disruptionjoe/architecture-of-legitimacy): legitimacy, contribution, governance, and capture resistance as design problems.
+- [Caret](https://github.com/disruptionjoe/caret): semantic notation for agent workflows in Markdown.
+- [Geometric Unity formalization](https://github.com/disruptionjoe/gu-formalization): structured investigation of a contested theoretical program.
+- [Time as Finality](https://github.com/disruptionjoe/time-as-finality): research on time, records, and finality.
+- [Temporal Issuance](https://github.com/disruptionjoe/temporal-issuance): a developing formal and conceptual exploration.
 
-If you want to work with me, start at [disruptionjoe.com/services](https://disruptionjoe.com/services/) or [book a planning call](https://disruptionjoe.com/contact/).
+For a guided tour, visit the [Thinking Museum](https://disruptionjoe.com/thinking/). For more about my background, working style, and experience, see the [deeper profile](https://github.com/disruptionjoe/disruptionjoe-profile).
+
+## Working together
+
+My consulting work brings people’s collective knowledge to the conversations that matter. We start with a free 30-minute discovery call, then a focused one-hour facilitated session. I want to earn the next hour through the value of the work.
+
+[Thinking Better Together](https://disruptionjoe.com/) · [How I can help](https://disruptionjoe.com/services/) · [Pricing and prepaid options](https://disruptionjoe.com/pricing/) · [Send me a message](https://disruptionjoe.com/contact/)
